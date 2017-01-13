@@ -1,0 +1,130 @@
+
+body { 
+background-image: url("/events/images/bk2.jpg") ;
+
+ }
+
+#titlu {
+
+	font-family: 'Dancing Script', cursive;
+	font-size: 75px;
+}
+
+h1 {
+	text-align: center;
+
+}
+
+.nav{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+}
+
+li {
+
+font-family: 'Amatic SC', cursive;
+font-size: 25px;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+a {color: black;}
+
+
+li:hover {
+	background-color: #ffcccc;
+	font-style: italic;
+
+}
+
+
+
+.servicii {
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+
+.servicii li a{
+	display: block;
+
+
+}
+
+
+
+
+table {
+	padding-top: 40px;
+	display: inline-block;
+}
+
+
+
+td {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+}
+
+form {
+
+	text-align: center;
+}
+
+#loginbtn {
+	background-color: #ffcccc;
+	font-family: 'Open Sans', sans-serif;
+	
+
+}
+
+.continut_pagina {
+
+	font-family: 'Dancing Script', cursive;
+	font-size: 140%;
+	text-align: center;
+	padding-left: 200px;
+	padding-right: 200px;
+
+}
+
+
+
+.poza {
+	width: 10px;
+}
+
+
+#wrap{
+font-family: 'Open Sans', sans-serif;
+
+}
+#meniu1{
+width: 33%;
+
+background-color: #ffcccc;
+float: left;
+}
+#meniu2{
+width: 33%;
+
+float: left;
+background-color:#ffb3b3;
+}
+#meniu3{
+width: 33%;
+float: left;
+background-color: #ffcccc;
+}
